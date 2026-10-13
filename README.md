@@ -1,3 +1,44 @@
+# Shopping
+
+A modern e-commerce application built with Next.js that offers a seamless shopping experience for users. The application leverages the latest web technologies to provide fast performance, excellent user experience, and robust functionality.
+
+[Source](https://github.com/Up-to-code/shopping) · [Issues](https://github.com/Up-to-code/shopping/issues) · [Project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
+
+## Technology
+
+Next.js, React, TypeScript.
+
+## Get started
+
+```sh
+git clone https://github.com/Up-to-code/shopping.git
+cd shopping
+```
+
+Requires Node.js and npm.
+
+```sh
+npm ci
+npm run dev
+```
+
+## Available commands
+
+| Command | Purpose |
+| --- | --- |
+| `npm run dev` | Development server |
+| `npm run start` | Start the configured application |
+| `npm run build` | Build the project |
+| `npm run lint` | Check lint rules |
+
+## Project structure
+
+- [`app`](./app)
+- [`components`](./components)
+
+<details>
+<summary>Existing setup notes and credits</summary>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +75,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+</details>
